@@ -382,6 +382,7 @@ fields:
   - type: object
     name: h5
     label: H5
+    labelField: size
     group: text-styles
     readOnly: true
     fields:
