@@ -292,6 +292,7 @@ fields:
   - type: object
     name: h4
     label: H4
+    labelField: size
     group: text-styles
     readOnly: true
     fields:
