@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home1
 layout: PageLayout
 sections:
   - type: HeroSection
@@ -134,7 +134,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
