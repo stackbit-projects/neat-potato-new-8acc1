@@ -112,6 +112,7 @@ fields:
   - type: object
     name: h2
     label: H2
+    labelField: size
     group: text-styles
     readOnly: true
     fields:
