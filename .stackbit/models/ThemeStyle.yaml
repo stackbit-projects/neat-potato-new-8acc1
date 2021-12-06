@@ -23,6 +23,7 @@ fields:
     name: h1
     label: H1
     group: text-styles
+    labelField: size
     readOnly: true
     fields:
       - type: enum
