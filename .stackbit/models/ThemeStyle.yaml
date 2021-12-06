@@ -202,6 +202,7 @@ fields:
   - type: object
     name: h3
     label: H3
+    labelField: size
     group: text-styles
     readOnly: true
     fields:
