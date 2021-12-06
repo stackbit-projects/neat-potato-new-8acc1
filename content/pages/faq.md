@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: FAQ1
 layout: PageLayout
 sections:
   - colors: colors-a
