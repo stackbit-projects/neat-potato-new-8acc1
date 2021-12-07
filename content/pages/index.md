@@ -18,7 +18,7 @@ sections:
         elementId: hero-main-button
     media:
       type: ImageBlock
-      url: /favicon.svg
+      url: /images/hilary-ouse.jpg
       altText: Image alt text
       caption: Image caption
     styles:
